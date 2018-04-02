@@ -20,7 +20,7 @@
                 <div class="links">
                     <a href="{{ route('about') }}">About</a>
                     <a href="{{ route('contact') }}">Contact</a>
-                    <a href="https://laravel-news.com">Github Link</a>
+                    <a href="https://github.com/reynackon89/miniproject">Github Link</a>
                 </div>
             </div>
         </div>
